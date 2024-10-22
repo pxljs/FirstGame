@@ -1,0 +1,13 @@
+# UE5 Intermediate and Cache Directories
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# UE5 Plugin Binaries
+Plugins/*/Binaries/
+
+# UE5 Temporary Files
+*.tmp
+
+# UE5 Project User Settings
+*.uproject.user
